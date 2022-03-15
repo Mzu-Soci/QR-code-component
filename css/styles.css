@@ -1,0 +1,55 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  line-height: 1.5rem;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12%;
+}
+
+img {
+  border-radius: 10px;
+  height: 220px;
+  width: 240px;
+}
+
+h3 {
+  font-weight: bold;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+}
+
+/* divs */
+.white-box {
+  border-radius: 25px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px;
+  width: 240px;
+  margin: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    margin-top: 30%;
+  }
+
+  /* .white-box {
+    margin-top: 30px;
+  } */
+}
+/* The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px */
