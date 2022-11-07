@@ -21,7 +21,7 @@ Demonstrate ability to create a web page without tutorial instruction. The codin
 
 ### Screenshot
 
-![](./design/my-solution-desktop-preview.jpg)
+![Desktop Site](Screenshot_Desktop_QR.jpg)
 
 ## My process
 
